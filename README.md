@@ -18,4 +18,11 @@ since trainning in ardiuno uno is a nightmare
 
 <p>
   This is the LED setup starting from the Left side to the Right  side there are 9 LEDS (0 - 9) from Right to Left 
+  You can also reffer the video inside the video folder
+  where for the first time i gave 12 as the input and then the prediction was 24 hence the 2nd index and the 4th index LED blub glows
 </p>
+
+<video width="320" height="240" controls>
+  <source src="video/VID_20210724_110821.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
