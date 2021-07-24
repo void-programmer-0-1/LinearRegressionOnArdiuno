@@ -23,6 +23,6 @@ since trainning in ardiuno uno is a nightmare
 </p>
 
 <video width="320" height="240" controls>
-  <source src="video/VID_20210724_110821.mp4" type="video/mp4">
+  <source src="vid/VID_20210724_110821.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
