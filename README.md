@@ -13,3 +13,5 @@ since trainning in ardiuno uno is a nightmare
 # Ardiuno LED Blink
 
 ![](images/IMG_20210724_110601.png)
+![](images/IMG_20210724_110611.png)
+![](images/IMG_20210724_110625.png)
