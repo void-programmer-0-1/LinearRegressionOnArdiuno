@@ -12,7 +12,4 @@ since trainning in ardiuno uno is a nightmare
 
 # Ardiuno LED Blink
 
-
-<p align="center">
-  <img src"./images/IMG_20210724_110601.png" width="350" title="hover text">
-</p>
+![](images/IMG_20210724_110601.png)
