@@ -12,6 +12,7 @@ since trainning in ardiuno uno is a nightmare
 
 # Ardiuno LED Blink
 
+
 ![](images/IMG_20210724_110601.png)
 ![](images/IMG_20210724_110611.png)
 ![](images/IMG_20210724_110625.png)
@@ -21,6 +22,8 @@ since trainning in ardiuno uno is a nightmare
   You can also reffer the video inside the video folder
   where for the first time i gave 12 as the input and then the prediction was 24 hence the 2nd index and the 4th index LED blub glows
 </p>
+
+# Video
 
 <video width="320" height="240" controls>
   <source src="vid/VID_20210724_110821.mp4" type="video/mp4">
